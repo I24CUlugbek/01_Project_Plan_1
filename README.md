@@ -1,16 +1,15 @@
 >> ### Project Plan : IT PM Project 1 ###<<
 1. Course Name : IT Project Management
 2. Team Information
-- **Team Name: Auravision**
+- **Team Name: "Auravision"**
 ### Team Members
 
 | No. | Name | Student ID | Group | Role | Phone |  
 |-----|------|------------|-------|------|--------|
-| 1 | Ulugbek | 202490189 | 124C | Leader | (97) 111-76-16 |
-| 2 | Begis | 202490198 | 124B | Member | (97) 111-76-16 |
-| 3 | Ozodbek | 202490040 | 124B | Member |(97) 111-76-16 |
-| 4 | — | — | — | Member |(97) 111-76-16 |
-| 5 | — | — | — | Member |(97) 111-76-16 |
+| 1 | Ulugbek Matkarimov | 202490189 | 124C | Leader | (97) 111-76-16 |
+| 2 | Begis Maxsetbaev | 202490198 | 124B | Member | (91) 097-77-33 |
+| 3 | Ozodbek Allamuradov | 202490040 | 124B | Member |(99) 235-90-49 |
+
 
 3. Project Title : Data Analysis
 - (Provide a clear and descriptive title for your project.)
