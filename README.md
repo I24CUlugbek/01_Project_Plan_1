@@ -11,7 +11,7 @@
 | 3 | Ozodbek Allamuradov | 202490040 | 124B | Member |(99) 235-90-49 |
 
 
-3. Project Title : Data Analysis
+3. Project Title :** Data Analysis**
 - (Provide a clear and descriptive title for your project.)
 
 4. Dataset Information
